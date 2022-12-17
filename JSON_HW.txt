@@ -67,6 +67,7 @@ vim skills.json и нажать I
 нажать Esc,:wq
 
 15. Отправить сразу 2 файла на внешний репозиторий.
+git add . && git commit -m "add 2 file" && git push
 
 16. На веб интерфейсе создать файл bug_report.json.
 
