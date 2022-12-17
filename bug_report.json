@@ -1,0 +1,14 @@
+{
+  "Environment":"<Description of environment>",
+  "ID":21 ,
+  "Summary":"<What_Where_Why>",
+  "STR":{
+          "Step1":"<step>",
+          "Step2":"<step>" 
+        },
+  "Severity":"<Minor>",
+  "Priority":"<Low>",
+  "Expected Result":"<expected result>",
+  "Actual Result":"<actual result>",
+  "Attachments":"<link>"
+}
