@@ -78,7 +78,20 @@ Commit New File
 
 18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
 Выбрать bug_report.json > Edit this file
-
+{
+  "Environment":"<Description of environment>",
+  "ID":21 ,
+  "Summary":"<What_Where_Why>",
+  "STR":{
+          "Step1":"<step>",
+          "Step2":"<step>" 
+        },
+  "Severity":"<Minor>",
+  "Priority":"<Low>",
+  "Expected Result":"<expected result>",
+  "Actual Result":"<actual result>",
+  "Attachments":"<link>"
+}
 19. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 Commit changes
 
